@@ -9,3 +9,6 @@ Features:
 - Delete Task
 - Update Status
 
+IMG_20260928_141454_702.jpg
+IMG_20260928_153943_249.jpg
+IMG_20260928_154008_311.jpg
